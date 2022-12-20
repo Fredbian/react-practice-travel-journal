@@ -1,6 +1,6 @@
 # react-practice-travel-journal
 
-This is a react practice to create a static airbnb front page. 
+This is a react practice to create a static travel journal page. Take data from a data file and render data into cards. 
 
 ## Available Scripts
 
